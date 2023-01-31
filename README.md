@@ -1,4 +1,7 @@
-# Cooking Recipies
+# Cooking Recipies + Firebase
+
+Add - Update - Search Recipe
+Change Theme and header-colour (context)
 
 # Getting Started with Create React App
 
